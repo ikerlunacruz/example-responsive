@@ -84,6 +84,44 @@ body{
 }
 
 /* Otras clases */
+
+.section-1 {
+    background-color: black;
+    color: white;
+}
+
+.amarillo {
+    background-color: yellow;
+}
+
+.azul {
+    background-color: blue;
+}
+
+.rojo {
+    background-color: red;
+}
+
+.center {
+    text-align: center;
+}
+
+img {
+    width: 100%;
+}
+
+.card {
+    height: 250px;
+    width: 250px;
+    border-radius: 10px;
+    background-size: cover;
+    background-position: center;
+}
+
+.p-s {
+    padding: 2%;
+}
+
 /* clase para centrar contenido en horizontal y vertical (lo centra respecto al elemento padre) */
 .flex{
     display: flex;
